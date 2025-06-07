@@ -11,4 +11,8 @@ godlike.host
 # Зависимости:
 - pip install mcrcon
 - pip install argparse
+# Коментарии
+- Запускать файл: python pult.py
+- Серверная часть: rcon_signal_status.lua
+- Серв 2: garrysmod/lua/autorun/server/rcon_signal_status.lua
 # Спсибо за то что скачали!
